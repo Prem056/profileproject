@@ -1,0 +1,172 @@
+body{
+  background-color: #013475;
+  color:#1ff2ff;
+  font-family: 'Rowdies', cursive;
+}
+.card
+{
+  background-color: #6179e5;
+  font-weight: bolder;
+  padding:10% 0;
+  font-size: 1.5em;
+  border-radius: 15px;
+}
+img
+{
+  height:300px;
+  width:300px;
+}
+a{
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 100px;
+  background-color: #171b2c;
+  color:#6179e5;
+
+}
+
+a:hover
+{
+  background-color:#1e86ff;
+  text-decoration:none;
+  font-weight:bolder;
+  color:white;
+}
+.title{
+  padding:5% 0 5% 0;
+  text-align: center;
+  margin:5%;
+  font-family: 'Krona One', sans-serif;
+  color:#ff553e;
+  text-decoration:underline;
+
+}
+
+h3
+{
+  padding-left: 1rem;
+}
+.interest
+{padding-top: 1rem;}
+.interest-ul{
+  padding-left: 0px;
+}
+.nav-link{
+  display:inline-block;
+  padding-right: 10px;
+}
+.media{
+  padding:5%;
+  width:90%;
+  margin-top:10%;
+}
+.media-body{
+  padding: 10px;
+}
+.name{
+  font-size: 4rem;
+  padding-left: 1rem;
+}
+.education
+{
+  color: #171b2c;
+  text-align: center;
+  padding: 0px 10% 5% 10%;
+}
+.skills
+{
+  text-align: center;
+
+}
+table{
+  padding:10% 20px 10% 20px;
+  text-align: center;
+  display: inline-table;
+}
+ td
+ {
+   padding:20px;
+   width: 400px;
+ }
+.skills
+{
+padding:0px 0px 0px 10%;
+font-size: 1.5em;
+}
+.achievements
+{
+  text-align:center;
+  padding-bottom: 10%;
+}
+.achdiv,.bluel{
+  width:30%;
+  display: inline-grid;
+  margin:20px;
+  border-style:solid;
+  color:#1e86ff;
+  border-color: #1e86ff;
+  border-width: thick;
+}
+
+.blue
+{
+  background-color: #1e86ff;
+  color:white;
+  width:40%;
+  border-radius: 12px;
+  margin: 10px;
+  font-size: 1.5rem;
+
+}
+#education{
+    background-color:#88d9da;
+}
+#achievements{
+    background-color:#88d9da;
+}
+.bio
+{
+  text-align: center;
+  padding-bottom: 10%;
+  font-size: 20px;
+}
+.bluel
+{
+  color:#1e86ff;
+  border-color: #1e86ff;
+  width: 40%;
+  font-size: 20px;
+}
+.ull
+{
+ display: inline-block;
+  font-weight: bolder;
+
+}
+.bio{
+  margin-left:14%;
+  width:80%;
+  display: inline-block;
+}
+.btn{
+  text-align: center;
+
+}
+.contactme
+{
+  text-align: center;
+  padding: 10% 40% ;
+  color:#1e86ff;
+
+}
+footer
+{
+  background-color: #f6f6f6;
+  border-radius: 15px;
+
+}
+.card-header{
+  color:white;
+  font-size: 1.7em;
+}
